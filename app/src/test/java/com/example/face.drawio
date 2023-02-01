@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T10:37:41.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" etag="5vgVkwX1JCcN0ZQq0aCk" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T10:39:24.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" etag="TE_gF2K33v0zCn7SSGaF" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1729" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1960" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -319,6 +319,9 @@
         </mxCell>
         <mxCell id="43xQ6NMyt6OMNAoMXdz4-24" value="为1000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="710" y="1520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="43xQ6NMyt6OMNAoMXdz4-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;蓝鲸Face id激活流程V1.2——update20230201&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="150" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
