@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T03:13:13.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" etag="j2TahiHeJ8hBr9PiUmxz" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T03:25:03.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" etag="9mSCd8tmvXtmIv12_F1f" version="20.8.14" type="github">
   <diagram name="第 1 页" id="jKWR0iQv0Hz7fYCfQkj2">
-    <mxGraphModel dx="1329" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2422" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wGg10luBGJyxKWRPRGvr-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wGg10luBGJyxKWRPRGvr-2" target="wGg10luBGJyxKWRPRGvr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wGg10luBGJyxKWRPRGvr-2" value="Dms激活" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wGg10luBGJyxKWRPRGvr-2" value="算法激活" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wGg10luBGJyxKWRPRGvr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wGg10luBGJyxKWRPRGvr-4" target="wGg10luBGJyxKWRPRGvr-7">
@@ -207,11 +207,14 @@
         <mxCell id="wGg10luBGJyxKWRPRGvr-64" value="不为空" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="405" y="580" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wGg10luBGJyxKWRPRGvr-68" value="&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;锐承Dms激活流程V1.2——update20230201&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="wGg10luBGJyxKWRPRGvr-68" value="&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;非蓝鲸Adas、Dms激活流程V1.2——update20230309&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="275" y="190" width="375" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wGg10luBGJyxKWRPRGvr-71" value="&lt;font color=&quot;#ffd966&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="625" y="395" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wGg10luBGJyxKWRPRGvr-72" value="&lt;font color=&quot;#3333ff&quot;&gt;备注：将imei,proId,缓存中存放&lt;br&gt;的激活码hsml 这三个结合起&lt;br&gt;来通过Md5加密计算比较&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="840" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
