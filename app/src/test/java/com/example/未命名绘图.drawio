@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T03:42:43.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" etag="CPUGdhDjiPVHzSIE2OOF" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T03:45:11.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" etag="xZrwWD_3X4g_3GCiAvrn" version="20.8.14" type="github">
   <diagram id="dVPN6Az_JV8mQzL0Mhv4" name="第 1 页">
-    <mxGraphModel dx="2703" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2422" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,7 +225,7 @@
         <mxCell id="TkL4nMvJxqvszx6FNRKD-4" value="&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;蓝鲸Dms激活流程V1.2——update20230201&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="275" y="190" width="375" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="S8rcF95gPWuwwPJ6Z7Zs-1" value="&lt;font color=&quot;#3333ff&quot;&gt;备注：将&lt;b&gt;&lt;u&gt;sn&lt;/u&gt;,&lt;/b&gt;proId,缓存中存放&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(51, 51, 255);&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255);&quot;&gt;的激活码hsml 这三个结合起&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(51, 51, 255);&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255);&quot;&gt;来通过Md5加密计算比较&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="S8rcF95gPWuwwPJ6Z7Zs-1" value="&lt;font color=&quot;#3333ff&quot;&gt;备注：将&lt;b&gt;&lt;u&gt;sn&lt;/u&gt;,&lt;/b&gt;proId,缓存中存放&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(51, 51, 255);&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255);&quot;&gt;的激活码hsml 这三个结合起&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(51, 51, 255);&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255);&quot;&gt;来通过Md5加密计算比较&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-100" y="840" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
