@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T04:23:11.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="41xGWQb4hmLqqxriaMkK" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T04:24:18.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Xb3Z2qxsAMjLfp-5ioIM" version="22.1.7" type="github">
   <diagram name="第 1 页" id="jKWR0iQv0Hz7fYCfQkj2">
     <mxGraphModel dx="2702" dy="2228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -369,7 +369,7 @@
         <mxCell id="Y_pBhJn7m-qIPor5_tv0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y_pBhJn7m-qIPor5_tv0-1" target="wGg10luBGJyxKWRPRGvr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y_pBhJn7m-qIPor5_tv0-1" value="调用激活接口函数，延时5s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y_pBhJn7m-qIPor5_tv0-1" value="调用激活接口函数，延时10s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y_pBhJn7m-qIPor5_tv0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y_pBhJn7m-qIPor5_tv0-2" target="Y_pBhJn7m-qIPor5_tv0-1">
