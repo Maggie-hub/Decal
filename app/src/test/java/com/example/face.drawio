@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T09:25:23.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="nje3phlPiWzRH2Pj2fSQ" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T09:26:14.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="upCnnCMqMtrVoHzkgCy3" version="23.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1638" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -293,8 +293,8 @@
         <mxCell id="43xQ6NMyt6OMNAoMXdz4-24" value="为1000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="710" y="1520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="43xQ6NMyt6OMNAoMXdz4-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;蓝鲸Face id激活流程V1.2——update20230201&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="230" y="150" width="380" height="30" as="geometry" />
+        <mxCell id="43xQ6NMyt6OMNAoMXdz4-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;蓝鲸Face id激活流程V1.3——update20240315&lt;br&gt;（新增08状态码，超过激活上限）&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="230" y="140" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="61gUBn8hSd0huAN7vF5m-0" value="&lt;font color=&quot;#ff0000&quot;&gt;08：超过激活上限&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1510" y="1285" width="120" height="60" as="geometry" />
